@@ -1,4 +1,4 @@
-module github.com/josephspurrier/goversioninfo
+module github.com/hymkor/goversioninfo
 
 go 1.12
 
